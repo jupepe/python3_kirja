@@ -1,0 +1,6 @@
+jim,4,21
+jane,3,23
+anne,5,24
+niles,2,17
+kim,5,25
+jonas,2,19
